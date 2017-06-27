@@ -5,7 +5,7 @@ taxonomy:
     tag: [gantry5]
 ---
 
-![System Messages](system_messages_1.png?classes=shadow,border)
+![System Messages]vvvvvvvv(system_messages_1.png?classes=shadow,border)
 
 The **System Messages** particle displays system messages to users. This includes information such as login confirmations, warnings, etc. Always include this particle to all of your layouts. Otherwise, users will not see important system messages such as login failures.
 
